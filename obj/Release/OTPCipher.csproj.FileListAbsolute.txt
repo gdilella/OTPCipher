@@ -1,0 +1,5 @@
+C:\Users\Gianmarco\documents\visual studio 2015\Projects\OTPCipher\OTPCipher\bin\Release\OTPCipher.exe.config
+C:\Users\Gianmarco\documents\visual studio 2015\Projects\OTPCipher\OTPCipher\bin\Release\OTPCipher.exe
+C:\Users\Gianmarco\documents\visual studio 2015\Projects\OTPCipher\OTPCipher\bin\Release\OTPCipher.pdb
+C:\Users\Gianmarco\documents\visual studio 2015\Projects\OTPCipher\OTPCipher\obj\Release\OTPCipher.exe
+C:\Users\Gianmarco\documents\visual studio 2015\Projects\OTPCipher\OTPCipher\obj\Release\OTPCipher.pdb
