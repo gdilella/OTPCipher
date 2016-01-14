@@ -1,0 +1,6 @@
+c:\users\gianmarco\documents\visual studio 2015\Projects\OTPCipher\OTPCipher\bin\Debug\OTPCipher.exe.config
+c:\users\gianmarco\documents\visual studio 2015\Projects\OTPCipher\OTPCipher\obj\Debug\OTPCipher.csprojResolveAssemblyReference.cache
+c:\users\gianmarco\documents\visual studio 2015\Projects\OTPCipher\OTPCipher\bin\Debug\OTPCipher.exe
+c:\users\gianmarco\documents\visual studio 2015\Projects\OTPCipher\OTPCipher\bin\Debug\OTPCipher.pdb
+c:\users\gianmarco\documents\visual studio 2015\Projects\OTPCipher\OTPCipher\obj\Debug\OTPCipher.exe
+c:\users\gianmarco\documents\visual studio 2015\Projects\OTPCipher\OTPCipher\obj\Debug\OTPCipher.pdb
